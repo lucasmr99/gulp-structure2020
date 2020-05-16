@@ -1,0 +1,1 @@
+"use strict";var lucas=5,mana=10,number=4;
